@@ -1,7 +1,28 @@
- JobBridge:
- ✔ 学生注册、登录，企业HR登录页面    主页   due:7.19 @done (17-07-19 23:57)
-  ☐ 学生个人信息填写页面 due:7.20 @started(17-07-20 00:02)
-  ☐ 企业HR选人的页面初步完成,看简历的页面初步完成 due:7.21
-  ☐ 学生主页招聘信息的页面 due:7.23
+  JobBridge页面:
+>>主页
+    ✔ index.html @started(17-07-20 09:14) @done (17-07-20 09:46) @lasted(0:32)
+>>学生
+    ✔ stulogin.html @started(17-07-20 09:15) @done (17-07-20 11:26) @lasted(2:11)
+    ✔ sturegister.html @started(17-07-20 09:15) @done (17-07-20 11:26) @lasted(2:11)
+    ☐ stuinfo.html 学生个人信息填写页面 @started(17-07-20 14:03)
+    ☐ stustar.htnl 学生收藏公司和职位的页面
+    ✔ sturesume.html 学生简历填写页面  @started(17-07-20 09:14) @done (17-07-20 13:56) @lasted(4:42)
+    ☐ jobs.html 招聘信息页面  @due(17-07-23)
+    ☐ jobinfo.html 具体招聘信息的页面 @due(17-07-23)
+>>企业
+    ✔ comlogin.html @started(17-07-20 09:15) @done (17-07-20 11:26) @lasted(2:11)
+    ☐ comchoose.html 企业选人的页面
+    ☐ comjob.html 企业发布信息修改信息的页面 
+    ✔ cominfo.html 企业信息的页面 @started(17-07-20 11:56) @done (17-07-20 15:26) @lasted(3:30) 纳入招聘信息里的介绍，不做，pass
+    ☐ commessage.html 企业查看投递消息的页面 
+    ☐ comreview.html 企业查看学生简历的页面
+>>管理员
+    ☐ admin.html 增加企业信息（包括账户密码等），更新企业信息（根据招聘信息页面 需要哪些内容来定）; 新增管理员（账号密码） @started(17-07-20 16:24)
+
+
+任务:
+    ☐ 个人日报
+    ☐ 会议纪要
+
 
  

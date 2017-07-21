@@ -5,7 +5,6 @@
 4. 客户端->服务端（CS）
 ```json
 	{
-	    "type":"stu",
 		"userName": "何干事",
 		"password": "123456"
 	}
@@ -32,7 +31,7 @@
 3. 数据类型: json
 4. CS
 ```json
-	{   "type":"enterprise",
+	{   
 		"userName": "何干事",
 		"email": "666666666@qq.com",
 		"password": "123456"
