@@ -1,4 +1,4 @@
-## login.html
+## stulogin.js
 1. url: /login.do
 2. 请求方法: get
 3. 数据类型: json
